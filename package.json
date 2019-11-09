@@ -1,6 +1,6 @@
 {
   "name": "ts-build-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript based projects build scripts",
   "repository": "https://github.com/zerkalica/ts-build-scripts",
   "bugs": {
@@ -24,7 +24,7 @@
     "*.js",
     "*.md",
     ".*",
-    "package.json",
+    "*.json",
     "types",
     "dist",
     "bin"
